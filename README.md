@@ -10,12 +10,12 @@ Trabalho feito para a matéria de Contrução de Backend do 3º Semestre de Aná
 Tenha o node e o npm instalados.
 
 ### No terminal clone o projeto
-> javascript git clone https://github.com/juliavaz/backend-atividade-1.git
+> git clone https://github.com/juliavaz/backend-atividade-1.git
 
 Dentro da pasta do projeto:
 
 ### Instale as dependências:
-npm install
+> npm install
 
 ## Executar a aplicação:
 
