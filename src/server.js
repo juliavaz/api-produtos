@@ -1,5 +1,3 @@
-//const express =  require("express");
-//const bodyParser =  require("body-parser");
 import index from './index.js';
 
 // exec servidor

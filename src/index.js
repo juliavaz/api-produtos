@@ -4,11 +4,15 @@ import router from "./router.js";
 import './database/connection.js'
 
 class Index {
-    constructor(){
+    constructor() {
         this.index = express();
-        this.routes();
+        this.middlewares();
+        this.router();
     }
-    routes(){
+    middlewares() {
+        this.index.use(express.json());
+    }
+    router() {
         this.index.use(router);
     }
 }
