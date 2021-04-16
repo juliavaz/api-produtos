@@ -10,7 +10,7 @@ Trabalho feito para a matéria de Contrução de Backend do 3º Semestre de Aná
 Tenha o node e o npm instalados.
 
 ### No terminal clone o projeto
-> git clone https://github.com/juliavaz/backend-atividade-1.git
+> git clone https://github.com/juliavaz/api-produtos.git
 
 Dentro da pasta do projeto:
 
