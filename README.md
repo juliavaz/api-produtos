@@ -1,29 +1,34 @@
-# Atividade Backend 1
+# API Produtos 
 
-Trabalho feito para a matéria de Contrução de Backend do 3º Semestre de Análise e Desenvolvimento de Sistemas pelo IESB.
+Trabalho feito para a matéria de Contrução de Backend do 3º Semestre de Análise e Desenvolvimento de Sistemas.
 
-```markdown
-    Criação da API Produtos com acesso ao MongoDB
-```
+> Criação de API Produtos com acesso ao MongoDB, incluindo autenticação de usuário para garantir que algumas operações sejam realizadas apenas por usuários autenticados 
+
 ## Como rodar a aplicação
 
 Tenha o node e o npm instalados.
 
 ### No terminal clone o projeto
-> git clone https://github.com/juliavaz/api-produtos.git
+```
+git clone https://github.com/juliavaz/api-produtos.git 
+```
 
 Dentro da pasta do projeto:
 
 ### Instale as dependências:
-> npm install
+``` 
+npm install 
+```
 
 ## Executar a aplicação:
 
 ### API de produtos
-> node .\src\server.js
+``` 
+node .\src\server.js 
+```
 
 ### Caso a aplicação rode normalmente, estará disponível em: [http://localhost:3000/](http://localhost:3000/)
 
 ## Documentação API
 
-[https://documenter.getpostman.com/view/12083963/Tz5qZc7q#6c6ddb11-52c4-4367-a6c4-804d3d5f3bb0](https://documenter.getpostman.com/view/12083963/Tz5qZc7q#6c6ddb11-52c4-4367-a6c4-804d3d5f3bb0)
+[https://documenter.getpostman.com/view/12083963/TzJrCzVv](https://documenter.getpostman.com/view/12083963/TzJrCzVv)
